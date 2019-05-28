@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cassowary", "Cassowary.csproj", "{F01578A3-BA19-47E6-B333-40E41158658B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cassowary", "Cassowary\Cassowary.csproj", "{F01578A3-BA19-47E6-B333-40E41158658B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cassowary.Parsing", "Cassowary.Parsing.csproj", "{DAE0FC0E-44C5-4B1F-8D81-80BA4CFFFB47}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cassowary.Parsing", "Cassowary.Parsing\Cassowary.Parsing.csproj", "{DAE0FC0E-44C5-4B1F-8D81-80BA4CFFFB47}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cassowary.Tests", "Cassowary.Tests\Cassowary.Tests.csproj", "{8EDF4429-251A-416D-BB68-93F227191BCF}"
 EndProject

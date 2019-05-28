@@ -53,11 +53,11 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Cassowary.csproj">
+    <ProjectReference Include="..\Cassowary\Cassowary.csproj">
       <Project>{f01578a3-ba19-47e6-b333-40e41158658b}</Project>
       <Name>Cassowary</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Cassowary.Parsing.csproj">
+    <ProjectReference Include="..\Cassowary.Parsing\Cassowary.Parsing.csproj">
       <Project>{dae0fc0e-44c5-4b1f-8d81-80ba4cfffb47}</Project>
       <Name>Cassowary.Parsing</Name>
     </ProjectReference>
